@@ -1,3 +1,5 @@
+This is my adaptation of the original code by Alexander Ruchti for my MRes project
+
 # Homologous Point Prediction
 This repository contains an implementation of homologous point based medical image registration.
 
